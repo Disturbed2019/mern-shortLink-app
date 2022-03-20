@@ -1,7 +1,7 @@
 # MERN-shortLink-app
  TEST PROJECT
  
-###Technology stack: 
+### Technology stack: 
 - Node.js
 - Express.js
 - MongoDB
