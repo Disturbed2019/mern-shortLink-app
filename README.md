@@ -1,7 +1,6 @@
 # ShortLink-app
  TEST PROJECT
  
-### Technology stack: 
 - Node.js
 - Express.js
 - MongoDB
