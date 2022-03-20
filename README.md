@@ -1,4 +1,4 @@
-# MERN-shortLink-app
+# ShortLink-app
  TEST PROJECT
  
 ### Technology stack: 
